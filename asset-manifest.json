@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/PortfolioV2/static/css/main.b0bcea36.chunk.css",
+    "main.js": "/PortfolioV2/static/js/main.ed710b9a.chunk.js",
+    "main.js.map": "/PortfolioV2/static/js/main.ed710b9a.chunk.js.map",
+    "runtime-main.js": "/PortfolioV2/static/js/runtime-main.a7ca9a8c.js",
+    "runtime-main.js.map": "/PortfolioV2/static/js/runtime-main.a7ca9a8c.js.map",
+    "static/js/2.d7b9d7eb.chunk.js": "/PortfolioV2/static/js/2.d7b9d7eb.chunk.js",
+    "static/js/2.d7b9d7eb.chunk.js.map": "/PortfolioV2/static/js/2.d7b9d7eb.chunk.js.map",
+    "index.html": "/PortfolioV2/index.html",
+    "precache-manifest.505f490404a67cfe9aea81b7674fc2e6.js": "/PortfolioV2/precache-manifest.505f490404a67cfe9aea81b7674fc2e6.js",
+    "service-worker.js": "/PortfolioV2/service-worker.js",
+    "static/css/main.b0bcea36.chunk.css.map": "/PortfolioV2/static/css/main.b0bcea36.chunk.css.map",
+    "static/js/2.d7b9d7eb.chunk.js.LICENSE.txt": "/PortfolioV2/static/js/2.d7b9d7eb.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/PortfolioV2/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Hearst_logo.svg": "/PortfolioV2/static/media/Hearst_logo.08f39e2c.svg",
+    "static/media/Semantics3_Inc.png": "/PortfolioV2/static/media/Semantics3_Inc.1f2fff51.png",
+    "static/media/asmitkumar_1.png": "/PortfolioV2/static/media/asmitkumar_1.1287e329.png",
+    "static/media/all.css": "/PortfolioV2/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/semantics3.png": "/PortfolioV2/static/media/semantics3.ad840603.png",
+    "static/media/semantics3_2.png": "/PortfolioV2/static/media/semantics3_2.9d8ffb97.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7ca9a8c.js",
+    "static/js/2.d7b9d7eb.chunk.js",
+    "static/css/main.b0bcea36.chunk.css",
+    "static/js/main.ed710b9a.chunk.js"
+  ]
+}
